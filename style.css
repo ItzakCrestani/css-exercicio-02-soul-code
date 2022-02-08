@@ -65,65 +65,65 @@ div img {
   margin-left: 10px;
 }
 
-#ac-rio-branco {
+.ac-rio-branco {
   border: 5px solid;
   border-top-left-radius: 25px;
 }
 
-#ap-macapa {
+.ap-macapa {
   border: 5px solid;
   border-bottom-left-radius: 25px;
 }
 
-#am-manaus {
+.am-manaus {
   border: 5px solid;
   border-top-right-radius: 25px;
 }
 
-#pa-belem {
+.pa-belem {
   border: 5px solid;
   border-bottom-right-radius: 25px;
 }
 
-#ro-porto-velho {
+.ro-porto-velho {
   border: 5px solid;
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
 }
 
-#rr-boa-vista {
+.rr-boa-vista {
   border: 5px solid;
   border-bottom-right-radius: 25px;
   border-top-left-radius: 25px;
 }
 
-#to-palmas {
+.to-palmas {
   border: 5px solid;
   border-bottom-left-radius: 25px;
   border-top-left-radius: 25px;
 }
 
-#al-maceio {
+.al-maceio {
   border: 5px;
   border-style: dashed;
 }
 
-#ba-salvador {
+.ba-salvador {
   border: 5px;
   border-style: dotted;
 }
 
-#ce-fortaleza {
+.ce-fortaleza {
   border: 5px;
   border-style: double;
 }
 
-#ma-sao-luis {
+.ma-sao-luis {
   border: 5px;
   border-style: groove;
 }
 
-#pb-joao-pessoa {
+.pb-joao-pessoa {
   border: 5px;
   border-top-style: dashed;
   border-bottom-style: dashed;
@@ -131,78 +131,78 @@ div img {
   border-right-style: solid;
 }
 
-#pe-recife {
+.pe-recife {
   border: 5px solid;
   border-left-style: dotted;
   border-right-style: dotted;
 }
 
-#pi-teresina {
+.pi-teresina {
   border: 5px solid;
   border-left-style: double;
   border-top-style: double;
 }
 
-#rn-natal {
+.rn-natal {
   border: 5px solid;
   border-right-style: groove;
   border-bottom-style: groove;
 }
 
-#se-aracaju {
+.se-aracaju {
   border: 5px solid;
   border-left: none;
   border-bottom: none;
 }
 
-#go-goiania {
+.go-goiania {
   border: 5px solid red;
 }
 
-#mt-cuiaba {
+.mt-cuiaba {
   border: 5px solid green;
 }
 
-#ms-campo-grande {
+.ms-campo-grande {
   border: 5px solid yellow;
 }
 
-#df-brasilia {
+.df-brasilia {
   border: 5px solid blue;
 }
 
-#es-vitoria {
+.es-vitoria {
   border: 5px solid;
   border-bottom-color: blue;
   border-right-color: blue;
 }
 
-#mg-belo-horizonte {
+.mg-belo-horizonte {
   border: 5px solid;
   border-top-color: red;
   border-left-color: red;
 }
 
-#sp-sao-paulo {
+.sp-sao-paulo {
   border: 5px solid;
   border-left-color: yellow;
   border-right-color: yellow;
 }
 
-#rj-rio-de-janeiro {
+.rj-rio-de-janeiro {
   border: 5px solid;
   border-top-color: green;
   border-bottom-color: green;
 }
 
-#pr-curitiba {
+.pr-curitiba {
   border: 5px solid;
   border-style: double;
   border-radius: 25px;
   border-color: red;
 }
 
-#sc-porto-alegre {
+.sc-porto-alegre {
   border: 5px solid;
   border-style: dashed;
   border-top-left-radius: 25px;
@@ -213,7 +213,7 @@ div img {
   border-right-color: yellow;
 }
 
-#rs-florianopolis {
+.rs-florianopolis {
   border: 5px solid;
   border-style: dotted;
   border-top-right-radius: 25px;
